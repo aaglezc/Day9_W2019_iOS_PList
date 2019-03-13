@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>countries</key>
+	<array>
+		<string>Mexico</string>
+		<string>Canada</string>
+		<string>Beazl</string>
+		<string>Norway</string>
+		<string>Iran</string>
+	</array>
+	<key>employees</key>
+	<array>
+		<dict>
+			<key>eid</key>
+			<integer>1</integer>
+			<key>enm</key>
+			<string>Alfredo PErez</string>
+			<key>salary</key>
+			<string>1500</string>
+		</dict>
+		<dict>
+			<key>eid</key>
+			<integer>2</integer>
+			<key>enm</key>
+			<string>Arturo Gonzlez</string>
+			<key>salary</key>
+			<real>1000.5</real>
+		</dict>
+		<dict>
+			<key>eid</key>
+			<integer>3</integer>
+			<key>enm</key>
+			<string>Beto Salas</string>
+			<key>salary</key>
+			<real>1040.5</real>
+		</dict>
+		<dict>
+			<key>eid</key>
+			<integer>4</integer>
+			<key>enm</key>
+			<string>Sandra Castro</string>
+			<key>salary</key>
+			<real>900.5</real>
+		</dict>
+	</array>
+</dict>
+</plist>

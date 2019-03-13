@@ -14,6 +14,7 @@
 		9BB8682B223872C600FEED63 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BB86829223872C600FEED63 /* LaunchScreen.storyboard */; };
 		9BB86836223872C600FEED63 /* Day9_W2019_iOS_PListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BB86835223872C600FEED63 /* Day9_W2019_iOS_PListTests.swift */; };
 		9BB86841223872C600FEED63 /* Day9_W2019_iOS_PListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BB86840223872C600FEED63 /* Day9_W2019_iOS_PListUITests.swift */; };
+		9BB8684F2238732C00FEED63 /* Employee.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9BB8684E2238732C00FEED63 /* Employee.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9BB8683C223872C600FEED63 /* Day9_W2019_iOS_PListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Day9_W2019_iOS_PListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BB86840223872C600FEED63 /* Day9_W2019_iOS_PListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day9_W2019_iOS_PListUITests.swift; sourceTree = "<group>"; };
 		9BB86842223872C600FEED63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9BB8684E2238732C00FEED63 /* Employee.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Employee.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				9BB86827223872C600FEED63 /* Assets.xcassets */,
 				9BB86829223872C600FEED63 /* LaunchScreen.storyboard */,
 				9BB8682C223872C600FEED63 /* Info.plist */,
+				9BB8684E2238732C00FEED63 /* Employee.plist */,
 			);
 			path = Day9_W2019_iOS_PList;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BB8684F2238732C00FEED63 /* Employee.plist in Resources */,
 				9BB8682B223872C600FEED63 /* LaunchScreen.storyboard in Resources */,
 				9BB86828223872C600FEED63 /* Assets.xcassets in Resources */,
 				9BB86826223872C500FEED63 /* Main.storyboard in Resources */,
